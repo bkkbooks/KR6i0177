@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0177/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說金耀童子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0546.xml
+    old_id: T14n0546
+hash: sha256:7cae5557545a4874f68ee83ccce97b217b592701d27346f5126c38e7a105e3b4
