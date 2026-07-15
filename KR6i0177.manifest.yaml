@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0177/v1
 canonical_location: https://kanripo.org/bkk/KR6i0177/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說金耀童子經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0177_000.yaml, hash: 'sha256:7cae5557545a4874f68ee83ccce97b217b592701d27346f5126c38e7a105e3b4'}
-  - {seq: 1, filename: KR6i0177_001.yaml, hash: 'sha256:b31c2352254b9ad7c1eb9f54a72b6597a240d13cfd6c201b1e4f37cc43a6a187'}
+  - {seq: 1, filename: KR6i0177_001.yaml, hash: 'sha256:f0e2a51585db45fbf8a1fc95f0458409c39de9f334f643e2e783c1865eea06ce'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0177_000.markers.yaml, hash: 'sha256:8a7a9937978336405626d940b1427581057ae50fd43d923ce8fea4da74984018'}
-  - {seq: 1, role: markers, filename: assets/KR6i0177_001.markers.yaml, hash: 'sha256:06600660d078ac601de750f64009e9cb0c7687b2f28b2a957913b4e1fe3fcfac'}
+  - {seq: 1, role: markers, filename: assets/KR6i0177_001.markers.yaml, hash: 'sha256:57bb8cfc4c751d8899f3550f442c786ea63a652ec34ed72f0417be65194ea25c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說金耀童子經
   type: juan
   level: 1
-hash: sha256:e982424d3d4fe7b49d8012555a384b5db1313d09f87236543e37fe7a0ccccf85
+hash: sha256:a7d5aa27736f29e233be2226ffdd87ec19c7d44b978bf690654cd21e0ee6c433
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
